@@ -1,0 +1,153 @@
+## Navigate
+
+[HOME](before_you_start.md)      
+
+[Want to install TailWind?](tailwindSetup.md)
+
+[Want to host you apps on Ubuntu?](hosting_on_Ubuntu.md)
+
+[Video Titles](video_titles.md)
+
+# SWC
+## Videos
+| No. | Title                                           |
+|--------------|-------------------------------------------------|
+| 1            | [Installing VS Code & How Websites Work](https://www.youtube.com/watch?v=tVzUXW6siu0) |
+| 2            | [Your First HTML Website](https://www.youtube.com/watch?v=kJEsTjH5mVg) |
+| 3            | [Basic Structure of an HTML Website](https://www.youtube.com/watch?v=BGeDBfCIqas) |
+| 4            | [Heading, Paragraphs and Links](https://www.youtube.com/watch?v=nXba2-mgn1k) |
+| 5            | [Image, Lists, and Tables in HTML](https://www.youtube.com/watch?v=1BsVhumGlNc) |
+| 6            | [SEO and Core Web Vitals in HTML](https://www.youtube.com/watch?v=CyRlWlaJnTY) |
+| 7            | [Forms and input tags in HTML](https://www.youtube.com/watch?v=tLBlhp0SA_0) |
+| 8            | [Inline & Block Elements in HTML](https://www.youtube.com/watch?v=vnnlUCLfn6I) |
+| 9            | [Id & Classes in HTML](https://www.youtube.com/watch?v=vlAWzsGd-Yk) |
+| 10            | [Video, Audio & Media in HTML](https://www.youtube.com/watch?v=XZwBNDGuWGU) |
+| 11            | [Semantic Tags  in HTML](https://www.youtube.com/watch?v=fhoDRB53DwY) |
+| 12            | [Exercise 1 - Pure HTML Media Player](https://www.youtube.com/watch?v=5xFRg_TzlAg) |
+| 13            | [Entities, Code tag and more on HTML](https://www.youtube.com/watch?v=cvsbHZcDx8w) |
+| 14            | [Introduction to CSS](https://www.youtube.com/watch?v=1dkfuga2_Ps) |
+| 15            | [Inline, Internal & External CSS](https://www.youtube.com/watch?v=-XwZpYIyCEA) |
+| 16            | [Exercise 1 - Solution & Shoutouts](https://www.youtube.com/watch?v=anGMeDGvZhw) |
+| 17            | [CSS Selectors MasterClass](https://www.youtube.com/watch?v=1cEG1T8beO4) |
+| 18            | [CSS Box Model - Margin, Padding & Borders](https://www.youtube.com/watch?v=Xrxd6cEajhM) |
+| 19            | [CSS Fonts, Text & Color Properties](https://www.youtube.com/watch?v=aFicd4-YTfo) |
+| 20            | [Exercise 2 - CSS Challenge](https://www.youtube.com/watch?v=4aBolpJoutw) |
+| 21            | [CSS Specificity & Cascade](https://www.youtube.com/watch?v=uTcpbPMZlFE) |
+| 22            | [CSS Sizing Units - px, rem, em, vh, vw, % & more](https://www.youtube.com/watch?v=nkaAJYfRDVk) |
+| 23            | [CSS Display Property](https://www.youtube.com/watch?v=hRHV5cjEB1w) |
+| 24            | [CSS Shadows and Outlines](https://www.youtube.com/watch?v=BZJcNU648Tc) |
+| 25            | [Styling Lists using CSS](https://www.youtube.com/watch?v=ZIofkptpXO8) |
+| 26            | [CSS Overflow Property](https://www.youtube.com/watch?v=ntlawluDB-c) |
+| 27            | [Exercise 2 - Solutions and Shoutouts](https://www.youtube.com/watch?v=g1HJ65p5YdI) |
+| 28            | [CSS Position Property](https://www.youtube.com/watch?v=cOw6tgH6P20) |
+| 29            | [Exercise 3 - Design this Card](https://www.youtube.com/watch?v=nm3HrrUuz50) |
+| 30            | [CSS Variables](https://www.youtube.com/watch?v=ovRU9xHfly4) |
+| 31            | [CSS Media Queries](https://www.youtube.com/watch?v=eHye3PxH4jU) |
+| 32            | [Exercise 3 - Solution](https://www.youtube.com/watch?v=2PWgbyL3ex8) |
+| 33            | [Exercise 4 - Multi Color Website](https://www.youtube.com/watch?v=-WN74rN9OPI) |
+| 34            | [CSS Float & Clear](https://www.youtube.com/watch?v=6_UoTF7njLM) |
+| 35            | [More on CSS Selectors](https://www.youtube.com/watch?v=L8NfSewTfxY) |
+| 36            | [Exercise 4 - Solution & Shoutouts](https://www.youtube.com/watch?v=n1T6Ve00j24) |
+| 37            | [CSS Exercise 5 - Design this Layout](https://www.youtube.com/watch?v=8Hk4MmO9ZeQ) |
+| 38            | [CSS Flexbox - Ultimate MasterClass](https://www.youtube.com/watch?v=DWk2mndNTHY) |
+| 39            | [CSS Grid - Ultimate MasterClass](https://www.youtube.com/watch?v=7AgEjgUtho4) |
+| 40            | [Exercise 5 - Solution & Shoutouts](https://www.youtube.com/watch?v=-uVJlSHueYQ) |
+| 41            | [Exercise 6 - Navbar using Flexbox](https://www.youtube.com/watch?v=A5fK2Y8-if8) |
+| 42            | [CSS Transforms MasterClass](https://www.youtube.com/watch?v=GGlzzLTLzxs) |
+| 43            | [Exercise 6 - Solution & Shoutouts](https://www.youtube.com/watch?v=SC7GCk1OiVo) |
+| 44            | [Exercise 7 - Design the Grid](https://www.youtube.com/watch?v=zJaiTrw-hu8) |
+| 45            | [CSS Transition Property](https://www.youtube.com/watch?v=pHI4PBFM0wY) |
+| 46            | [CSS Animations](https://www.youtube.com/watch?v=cDLVIoXW-OQ) |
+| 47            | [Exercise 7 - Solution & Shoutouts](https://www.youtube.com/watch?v=yktqxOHOeR4) |
+| 48            | [Exercise 8 - Bounce Animation](https://www.youtube.com/watch?v=PIC0Ps_Ci-s) |
+| 49            | [CSS Object-fit and Object-cover](https://www.youtube.com/watch?v=ognrhoi0C-w) |
+| 50            | [CSS Filters](https://www.youtube.com/watch?v=tSzDHVWG1hI) |
+| 51            | [Exercise 8: Solution & Shoutouts](https://www.youtube.com/watch?v=chYx6vVzWVw) |
+| 52            | [Figma Basics in One Video](https://www.youtube.com/watch?v=mpJb9GNxdYI) |
+| 53            | [Netflix Clone Using HTML & CSS](https://www.youtube.com/watch?v=ovKVqo-L2EM) |
+| 54            | [Introduction to JavaScript & Installing Node.js](https://www.youtube.com/watch?v=NrhP53Divco) |
+| 55            | [JavaScript Variables, Data Types & Objects](https://www.youtube.com/watch?v=HGCDMJXS1cc) |
+| 56            | [JavaScript Conditionals: if, else if,  else ladder](https://www.youtube.com/watch?v=1R4NGtsj7hw) |
+| 57            | [JavaScript Loops](https://www.youtube.com/watch?v=y32sWmu-RI4) |
+| 58            | [JavaScript Functions](https://www.youtube.com/watch?v=Jtc3j4ZNZEQ) |
+| 59            | [Exercise 9 - Faulty Calculator](https://www.youtube.com/watch?v=OrWmrQ2wrKU) |
+| 60            | [JavaScript Strings](https://www.youtube.com/watch?v=uJbYqm7W_mA) |
+| 61            | [JavaScript Exercise 9 - Solution & Shoutouts](https://www.youtube.com/watch?v=nQAUGxt2qoU) |
+| 62            | [JavaScript Exercise 10 - Business Name Generator](https://www.youtube.com/watch?v=FkEbEfHQAZw) |
+| 63            | [JavaScript Arrays](https://www.youtube.com/watch?v=IFZZAaiatcQ) |
+| 64            | [JavaScript Exercise 10 - Solution](https://www.youtube.com/watch?v=wPWZqewZ4LA) |
+| 65            | [JavaScript Exercise 11 - Calculate the Factorial](https://www.youtube.com/watch?v=ccfq9yW-dYU) |
+| 66            | [Document Object Model in JavaScript](https://www.youtube.com/watch?v=oxO1Z5L5S4c) |
+| 67            | [JavaScript DOM - Children, Parent & Sibling Nodes](https://www.youtube.com/watch?v=_8o_BiLAgQM) |
+| 68            | [JavaScript -  Selecting by Ids, Classes, and More](https://www.youtube.com/watch?v=uFbCTidM-xw) |
+| 69            | [JavaScript Exercise 11 - Solution & Shoutouts](https://www.youtube.com/watch?v=Xoz_KYfaSkk) |
+| 70            | [JavaScript Exercise 12 - Color the Boxes](https://www.youtube.com/watch?v=V4ohRrvu4Ok) |
+| 71            | [Inserting and Removing Elements using JavaScript](https://www.youtube.com/watch?v=KB7GzBv5p4Q) |
+| 72            | [JavaScript Exercise 12 - Solution & Shoutouts](https://www.youtube.com/watch?v=mCx5aSEK8YE) |
+| 73            | [JavaScript Exercise 13 - Dynamic Website Builder](https://www.youtube.com/watch?v=KtL-SQ20Q0s) |
+| 74            | [Events, Event Bubbling, setInterval & setTimeout](https://www.youtube.com/watch?v=CO_DAXswOrc) |
+| 75            | [JavaScript Callbacks & Promises](https://www.youtube.com/watch?v=9JaDBYPmiJ0) |
+| 76            | [Async/Await & Fetch API in JavaScript with Examples](https://www.youtube.com/watch?v=gRLdHSabW3o) |
+| 77            | [JavaScript Exercise 13 - Solution & Shoutouts](https://www.youtube.com/watch?v=UzYRQURh_pY) |
+| 78            | [JavaScript Exercise 14 - Hacker's Terminal](https://www.youtube.com/watch?v=WYazkpCQNQw) |
+| 79            | [JavaScript try catch & Error Handling](https://www.youtube.com/watch?v=aQn7ssqHYp4) |
+| 80            | [Classes & Objects - Object Oriented Programming in Js](https://www.youtube.com/watch?v=FeBbjzVOeRU) |
+| 81            | [JavaScript Exercise 14 - Solution & Shoutouts](https://www.youtube.com/watch?v=9H-Ieq6zjIY) |
+| 82            | [Advanced JavaScript](https://www.youtube.com/watch?v=tcQDnqRakxk) |
+| 83            | [JavaScript Interview Questions](https://www.youtube.com/watch?v=Vwxs9YJWsx4) |
+| 84            | [Spotify Clone using HTML, CSS & JavaScript](https://www.youtube.com/watch?v=CYwEq1GdU4E) |
+| 85            | [Backend, Node.js & npm](https://www.youtube.com/watch?v=NoWRBo3Uf8E) |
+| 86            | [CommonJs Vs EcmaScript Modules](https://www.youtube.com/watch?v=bU69doALJGU) |
+| 87            | [Working with Files: fs and path Modules](https://www.youtube.com/watch?v=BTcmvrCTyNg) |
+| 88            | [Introduction to Express Js](https://www.youtube.com/watch?v=R11tvGM3nDY) |
+| 89            | [Response, Request and Routers in Express](https://www.youtube.com/watch?v=SksvlZM-5Sk) |
+| 90            | [Middlewares in Express Js](https://www.youtube.com/watch?v=VELNPK0dK84) |
+| 91            | [Exercise 15 - Clear the Clutter](https://www.youtube.com/watch?v=1YSVEW3i8OQ) |
+| 92            | [ejs Template Engine in Express](https://www.youtube.com/watch?v=Kah88N8W5rs) |
+| 93            | [Exercise 15 - Solution & Shoutouts](https://www.youtube.com/watch?v=bM7bmh955Gs) |
+| 94            | [Installing MongoDB & MongoDB Compass](https://www.youtube.com/watch?v=oMrKVEedpHg) |
+| 95            | [CRUD Operations in MongoDB](https://www.youtube.com/watch?v=9Om0FMBz1yU) |
+| 96            | [Installing Mongoose & Using it with Express](https://www.youtube.com/watch?v=wgwo5hbY7SY) |
+| 97            | [Exercise 16 - Dummy Data Generator](https://www.youtube.com/watch?v=yDnxgIRcnso) |
+| 98            | [Tailwind CSS in one Video](https://www.youtube.com/watch?v=-g969furGik) |
+| 99            | [Exercise 16 - Solution & Shoutouts](https://www.youtube.com/watch?v=15jN-KKoSCA) |
+| 100            | [Exercise 17 - Design This Layout](https://www.youtube.com/watch?v=eGc35Qj0y4Q) |
+| 101            | [X.com (Twitter) Clone using Tailwind CSS](https://www.youtube.com/watch?v=iegMqFnVocA) |
+| 102            | [Exercise 17 - Solution & Shoutouts](https://www.youtube.com/watch?v=KAIGrGEDm78) |
+| 103            | [What is Hosting? Where to Host? Which Hosting?](https://www.youtube.com/watch?v=c2A5XJidIDA) |
+| 104            | [Hosting an Express App on Ubuntu VPS using Hostinger](https://www.youtube.com/watch?v=AgjdDXofJZ8) |
+| 105            | [Introduction to React & Why use React?](https://www.youtube.com/watch?v=nhSZ4LhIii8) |
+| 106            | [Components, Props and JSX in React](https://www.youtube.com/watch?v=S4VH8hddg8c) |
+| 107            | [Hooks & State in React](https://www.youtube.com/watch?v=zHoWgJD0jw4) |
+| 108            | [The useEffect Hook in React](https://www.youtube.com/watch?v=bio2eP5YXyw) |
+| 109            | [The useRef Hook in React](https://www.youtube.com/watch?v=VlSNiL_x4mo) |
+| 110            | [Conditional Rendering  & Rendering Lists in React](https://www.youtube.com/watch?v=96DGjqlAIxs) |
+| 111            | [Exercise 18 - Display the Cards](https://www.youtube.com/watch?v=KDpm8h8XzC4) |
+| 112            | [Handling Events in React](https://www.youtube.com/watch?v=cXkwFjBrWfk) |
+| 113            | [Exercise 18 - Solution & Shoutouts](https://www.youtube.com/watch?v=iZdOrqJuPrg) |
+| 114            | [TodoList App using React, Tailwind & React Icons](https://www.youtube.com/watch?v=SBuZSalHLe0) |
+| 115            | [React Router: Routing in React](https://www.youtube.com/watch?v=ZP8QyCIUeIA) |
+| 116            | [The useContext hook in React](https://www.youtube.com/watch?v=jIbXtgL0qrg) |
+| 117            | [The useMemo hook in React](https://www.youtube.com/watch?v=rRiBpNhFgoM) |
+| 118            | [The useCallback hook in React](https://www.youtube.com/watch?v=M1ELG5Wgtdo) |
+| 119            | [Handling Forms + Connecting React to Express Backend](https://www.youtube.com/watch?v=SdzMBWT2CDQ) |
+| 120            | [Learn Redux in One video](https://www.youtube.com/watch?v=J5By-Q4ZhZs) |
+| 121            | [Introduction to Next.js & File based routing](https://www.youtube.com/watch?v=6XVaVITFOgY) |
+| 122            | [Server Components in Next.js](https://www.youtube.com/watch?v=YuX_R4RGdZw) |
+| 123            | [Script, Link & Image components in Next.js](https://www.youtube.com/watch?v=tHTtOJl7ZlI) |
+| 124            | [Creating APIs in Next.js](https://www.youtube.com/watch?v=0rC-3PyhNnI) |
+| 125            | [Server Actions in Next.js](https://www.youtube.com/watch?v=lvU8fMNVivY) |
+| 126            | [Middleware in Next.js](https://www.youtube.com/watch?v=nZ2heJVkawQ) |
+| 127            | [Auth.js - Authentication in Next.js](https://www.youtube.com/watch?v=2JnEq3ZmLH0) |
+| 128            | [Dynamic Routes in Next.js](https://www.youtube.com/watch?v=D7YuI6vOzdY) |
+| 129            | [Layouts in Next.js](https://www.youtube.com/watch?v=jWi8d3SJYN0) |
+| 130            | [React Project: Password Manager using React, Tailwind, MongoDB & Express](https://www.youtube.com/watch?v=sgNZcK8QIyc) |
+| 131            | [Project GetMeAChai - Patreon Clone in Next.js](https://www.youtube.com/watch?v=QtaorVNAwbI) |
+| 132            | [Understanding next/navigation module in Next.js](https://www.youtube.com/watch?v=K052tdPqa5U) |
+| 133            | [SSR, SSG & ISR in Next.js](https://www.youtube.com/watch?v=O0UGlA1YVUI) |
+| 134            | [Environment Variables in Next.js](https://www.youtube.com/watch?v=DbVI7QnDnjY) |
+| 135            | [Styled JSX and other ways to Style in Next.js](https://www.youtube.com/watch?v=M6aXSV2HAHo) |
+| 136            | [[Project] Let's Build a Url Shortener in Next.js 15](https://www.youtube.com/watch?v=Ojo_lo0djbQ) |
+| 137            | [[Project] Let's Build a LinkTree Clone in Next.js 15](https://www.youtube.com/watch?v=izwkombjECA) |
+| 138            | [Deploying our Next.js App to Vercel](https://www.youtube.com/watch?v=IW1hcRXK2yQ) |
+| 139            | [My Last Video](https://www.youtube.com/watch?v=iZb0NsF3Xwg) |
