@@ -1,0 +1,640 @@
+<svg width="1000" height="4025" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+      <style>
+      .title { font-family: 'Arial', sans-serif; font-size: 18px; font-weight: bold; fill: #2c3e50; }
+      .subtitle { font-family: 'Arial', sans-serif; font-size: 12px; fill: #7f8c8d; }
+      .folder-text { font-family: 'Consolas', 'Courier New', monospace; font-size: 14px; fill: #27ae60; font-weight: bold; }
+      .file-text { font-family: 'Consolas', 'Courier New', monospace; font-size: 14px; fill: #3498db; }
+      .icon { font-family: 'Arial', sans-serif; font-size: 16px; }
+      .line { stroke: #bdc3c7; stroke-width: 1.5; }
+      .background { fill: #f8f9fa; }
+      .header-bg { fill: #ecf0f1; }
+      </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="4025" class="background"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="1000" height="60" class="header-bg"/>
+  <text x="20" y="25" class="title">📁 File Tree: 25-08-22</text>
+          <text x="20" y="45" class="subtitle">Generated: 8/22/2025, 3:55:37 PM | FileTree Pro Extension</text>
+
+  <!-- Tree Structure -->
+    <line x1="15" y1="80" x2="25" y2="80" class="line"/>
+    <text x="30" y="85" class="icon">📁</text>
+    <text x="55" y="85" class="folder-text">.mypy_cache/</text>
+    <line x1="45" y1="100" x2="45" y2="110" class="line"/>
+    <line x1="45" y1="110" x2="55" y2="110" class="line"/>
+    <text x="60" y="115" class="icon">📁</text>
+    <text x="85" y="115" class="folder-text">3.13/</text>
+    <line x1="75" y1="130" x2="75" y2="140" class="line"/>
+    <line x1="75" y1="140" x2="85" y2="140" class="line"/>
+    <text x="90" y="145" class="icon">📁</text>
+    <text x="115" y="145" class="folder-text">_typeshed/</text>
+    <line x1="105" y1="160" x2="105" y2="170" class="line"/>
+    <line x1="105" y1="170" x2="115" y2="170" class="line"/>
+    <text x="120" y="175" class="icon">📄</text>
+    <text x="145" y="175" class="file-text">__init__.data.json</text>
+    <line x1="105" y1="195" x2="105" y2="205" class="line"/>
+    <line x1="105" y1="205" x2="115" y2="205" class="line"/>
+    <text x="120" y="210" class="icon">📄</text>
+    <text x="145" y="210" class="file-text">__init__.meta.json</text>
+    <line x1="105" y1="230" x2="105" y2="240" class="line"/>
+    <line x1="105" y1="240" x2="115" y2="240" class="line"/>
+    <text x="120" y="245" class="icon">📄</text>
+    <text x="145" y="245" class="file-text">importlib.data.json</text>
+    <line x1="105" y1="265" x2="105" y2="275" class="line"/>
+    <line x1="105" y1="275" x2="115" y2="275" class="line"/>
+    <text x="120" y="280" class="icon">📄</text>
+    <text x="145" y="280" class="file-text">importlib.meta.json</text>
+    <line x1="75" y1="335" x2="75" y2="345" class="line"/>
+    <line x1="75" y1="345" x2="85" y2="345" class="line"/>
+    <text x="90" y="350" class="icon">📁</text>
+    <text x="115" y="350" class="folder-text">collections/</text>
+    <line x1="105" y1="365" x2="105" y2="375" class="line"/>
+    <line x1="105" y1="375" x2="115" y2="375" class="line"/>
+    <text x="120" y="380" class="icon">📄</text>
+    <text x="145" y="380" class="file-text">__init__.data.json</text>
+    <line x1="105" y1="400" x2="105" y2="410" class="line"/>
+    <line x1="105" y1="410" x2="115" y2="410" class="line"/>
+    <text x="120" y="415" class="icon">📄</text>
+    <text x="145" y="415" class="file-text">__init__.meta.json</text>
+    <line x1="105" y1="435" x2="105" y2="445" class="line"/>
+    <line x1="105" y1="445" x2="115" y2="445" class="line"/>
+    <text x="120" y="450" class="icon">📄</text>
+    <text x="145" y="450" class="file-text">abc.data.json</text>
+    <line x1="105" y1="470" x2="105" y2="480" class="line"/>
+    <line x1="105" y1="480" x2="115" y2="480" class="line"/>
+    <text x="120" y="485" class="icon">📄</text>
+    <text x="145" y="485" class="file-text">abc.meta.json</text>
+    <line x1="75" y1="540" x2="75" y2="550" class="line"/>
+    <line x1="75" y1="550" x2="85" y2="550" class="line"/>
+    <text x="90" y="555" class="icon">📁</text>
+    <text x="115" y="555" class="folder-text">email/</text>
+    <line x1="105" y1="570" x2="105" y2="580" class="line"/>
+    <line x1="105" y1="580" x2="115" y2="580" class="line"/>
+    <text x="120" y="585" class="icon">📄</text>
+    <text x="145" y="585" class="file-text">__init__.data.json</text>
+    <line x1="105" y1="605" x2="105" y2="615" class="line"/>
+    <line x1="105" y1="615" x2="115" y2="615" class="line"/>
+    <text x="120" y="620" class="icon">📄</text>
+    <text x="145" y="620" class="file-text">__init__.meta.json</text>
+    <line x1="105" y1="640" x2="105" y2="650" class="line"/>
+    <line x1="105" y1="650" x2="115" y2="650" class="line"/>
+    <text x="120" y="655" class="icon">📄</text>
+    <text x="145" y="655" class="file-text">_policybase.data.json</text>
+    <line x1="105" y1="675" x2="105" y2="685" class="line"/>
+    <line x1="105" y1="685" x2="115" y2="685" class="line"/>
+    <text x="120" y="690" class="icon">📄</text>
+    <text x="145" y="690" class="file-text">_policybase.meta.json</text>
+    <line x1="105" y1="710" x2="105" y2="720" class="line"/>
+    <line x1="105" y1="720" x2="115" y2="720" class="line"/>
+    <text x="120" y="725" class="icon">📄</text>
+    <text x="145" y="725" class="file-text">charset.data.json</text>
+    <line x1="105" y1="745" x2="105" y2="755" class="line"/>
+    <line x1="105" y1="755" x2="115" y2="755" class="line"/>
+    <text x="120" y="760" class="icon">📄</text>
+    <text x="145" y="760" class="file-text">charset.meta.json</text>
+    <line x1="105" y1="780" x2="105" y2="790" class="line"/>
+    <line x1="105" y1="790" x2="115" y2="790" class="line"/>
+    <text x="120" y="795" class="icon">📄</text>
+    <text x="145" y="795" class="file-text">contentmanager.data.json</text>
+    <line x1="105" y1="815" x2="105" y2="825" class="line"/>
+    <line x1="105" y1="825" x2="115" y2="825" class="line"/>
+    <text x="120" y="830" class="icon">📄</text>
+    <text x="145" y="830" class="file-text">contentmanager.meta.json</text>
+    <line x1="105" y1="850" x2="105" y2="860" class="line"/>
+    <line x1="105" y1="860" x2="115" y2="860" class="line"/>
+    <text x="120" y="865" class="icon">📄</text>
+    <text x="145" y="865" class="file-text">errors.data.json</text>
+    <line x1="105" y1="885" x2="105" y2="895" class="line"/>
+    <line x1="105" y1="895" x2="115" y2="895" class="line"/>
+    <text x="120" y="900" class="icon">📄</text>
+    <text x="145" y="900" class="file-text">errors.meta.json</text>
+    <line x1="105" y1="920" x2="105" y2="930" class="line"/>
+    <line x1="105" y1="930" x2="115" y2="930" class="line"/>
+    <text x="120" y="935" class="icon">📄</text>
+    <text x="145" y="935" class="file-text">header.data.json</text>
+    <line x1="105" y1="955" x2="105" y2="965" class="line"/>
+    <line x1="105" y1="965" x2="115" y2="965" class="line"/>
+    <text x="120" y="970" class="icon">📄</text>
+    <text x="145" y="970" class="file-text">header.meta.json</text>
+    <line x1="105" y1="990" x2="105" y2="1000" class="line"/>
+    <line x1="105" y1="1000" x2="115" y2="1000" class="line"/>
+    <text x="120" y="1005" class="icon">📄</text>
+    <text x="145" y="1005" class="file-text">message.data.json</text>
+    <line x1="105" y1="1025" x2="105" y2="1035" class="line"/>
+    <line x1="105" y1="1035" x2="115" y2="1035" class="line"/>
+    <text x="120" y="1040" class="icon">📄</text>
+    <text x="145" y="1040" class="file-text">message.meta.json</text>
+    <line x1="105" y1="1060" x2="105" y2="1070" class="line"/>
+    <line x1="105" y1="1070" x2="115" y2="1070" class="line"/>
+    <text x="120" y="1075" class="icon">📄</text>
+    <text x="145" y="1075" class="file-text">policy.data.json</text>
+    <line x1="105" y1="1095" x2="105" y2="1105" class="line"/>
+    <line x1="105" y1="1105" x2="115" y2="1105" class="line"/>
+    <text x="120" y="1110" class="icon">📄</text>
+    <text x="145" y="1110" class="file-text">policy.meta.json</text>
+    <line x1="75" y1="1165" x2="75" y2="1175" class="line"/>
+    <line x1="75" y1="1175" x2="85" y2="1175" class="line"/>
+    <text x="90" y="1180" class="icon">📁</text>
+    <text x="115" y="1180" class="folder-text">importlib/</text>
+    <line x1="105" y1="1195" x2="105" y2="1205" class="line"/>
+    <line x1="105" y1="1205" x2="115" y2="1205" class="line"/>
+    <text x="120" y="1210" class="icon">📁</text>
+    <text x="145" y="1210" class="folder-text">metadata/</text>
+    <line x1="135" y1="1225" x2="135" y2="1235" class="line"/>
+    <line x1="135" y1="1235" x2="145" y2="1235" class="line"/>
+    <text x="150" y="1240" class="icon">📄</text>
+    <text x="175" y="1240" class="file-text">__init__.data.json</text>
+    <line x1="135" y1="1260" x2="135" y2="1270" class="line"/>
+    <line x1="135" y1="1270" x2="145" y2="1270" class="line"/>
+    <text x="150" y="1275" class="icon">📄</text>
+    <text x="175" y="1275" class="file-text">__init__.meta.json</text>
+    <line x1="135" y1="1295" x2="135" y2="1305" class="line"/>
+    <line x1="135" y1="1305" x2="145" y2="1305" class="line"/>
+    <text x="150" y="1310" class="icon">📄</text>
+    <text x="175" y="1310" class="file-text">_meta.data.json</text>
+    <line x1="135" y1="1330" x2="135" y2="1340" class="line"/>
+    <line x1="135" y1="1340" x2="145" y2="1340" class="line"/>
+    <text x="150" y="1345" class="icon">📄</text>
+    <text x="175" y="1345" class="file-text">_meta.meta.json</text>
+    <line x1="105" y1="1400" x2="105" y2="1410" class="line"/>
+    <line x1="105" y1="1410" x2="115" y2="1410" class="line"/>
+    <text x="120" y="1415" class="icon">📁</text>
+    <text x="145" y="1415" class="folder-text">resources/</text>
+    <line x1="135" y1="1430" x2="135" y2="1440" class="line"/>
+    <line x1="135" y1="1440" x2="145" y2="1440" class="line"/>
+    <text x="150" y="1445" class="icon">📄</text>
+    <text x="175" y="1445" class="file-text">__init__.data.json</text>
+    <line x1="135" y1="1465" x2="135" y2="1475" class="line"/>
+    <line x1="135" y1="1475" x2="145" y2="1475" class="line"/>
+    <text x="150" y="1480" class="icon">📄</text>
+    <text x="175" y="1480" class="file-text">__init__.meta.json</text>
+    <line x1="135" y1="1500" x2="135" y2="1510" class="line"/>
+    <line x1="135" y1="1510" x2="145" y2="1510" class="line"/>
+    <text x="150" y="1515" class="icon">📄</text>
+    <text x="175" y="1515" class="file-text">_common.data.json</text>
+    <line x1="135" y1="1535" x2="135" y2="1545" class="line"/>
+    <line x1="135" y1="1545" x2="145" y2="1545" class="line"/>
+    <text x="150" y="1550" class="icon">📄</text>
+    <text x="175" y="1550" class="file-text">_common.meta.json</text>
+    <line x1="135" y1="1570" x2="135" y2="1580" class="line"/>
+    <line x1="135" y1="1580" x2="145" y2="1580" class="line"/>
+    <text x="150" y="1585" class="icon">📄</text>
+    <text x="175" y="1585" class="file-text">_functional.data.json</text>
+    <line x1="135" y1="1605" x2="135" y2="1615" class="line"/>
+    <line x1="135" y1="1615" x2="145" y2="1615" class="line"/>
+    <text x="150" y="1620" class="icon">📄</text>
+    <text x="175" y="1620" class="file-text">_functional.meta.json</text>
+    <line x1="135" y1="1640" x2="135" y2="1650" class="line"/>
+    <line x1="135" y1="1650" x2="145" y2="1650" class="line"/>
+    <text x="150" y="1655" class="icon">📄</text>
+    <text x="175" y="1655" class="file-text">abc.data.json</text>
+    <line x1="135" y1="1675" x2="135" y2="1685" class="line"/>
+    <line x1="135" y1="1685" x2="145" y2="1685" class="line"/>
+    <text x="150" y="1690" class="icon">📄</text>
+    <text x="175" y="1690" class="file-text">abc.meta.json</text>
+    <line x1="105" y1="1745" x2="105" y2="1755" class="line"/>
+    <line x1="105" y1="1755" x2="115" y2="1755" class="line"/>
+    <text x="120" y="1760" class="icon">📄</text>
+    <text x="145" y="1760" class="file-text">__init__.data.json</text>
+    <line x1="105" y1="1780" x2="105" y2="1790" class="line"/>
+    <line x1="105" y1="1790" x2="115" y2="1790" class="line"/>
+    <text x="120" y="1795" class="icon">📄</text>
+    <text x="145" y="1795" class="file-text">__init__.meta.json</text>
+    <line x1="105" y1="1815" x2="105" y2="1825" class="line"/>
+    <line x1="105" y1="1825" x2="115" y2="1825" class="line"/>
+    <text x="120" y="1830" class="icon">📄</text>
+    <text x="145" y="1830" class="file-text">_abc.data.json</text>
+    <line x1="105" y1="1850" x2="105" y2="1860" class="line"/>
+    <line x1="105" y1="1860" x2="115" y2="1860" class="line"/>
+    <text x="120" y="1865" class="icon">📄</text>
+    <text x="145" y="1865" class="file-text">_abc.meta.json</text>
+    <line x1="105" y1="1885" x2="105" y2="1895" class="line"/>
+    <line x1="105" y1="1895" x2="115" y2="1895" class="line"/>
+    <text x="120" y="1900" class="icon">📄</text>
+    <text x="145" y="1900" class="file-text">_bootstrap.data.json</text>
+    <line x1="105" y1="1920" x2="105" y2="1930" class="line"/>
+    <line x1="105" y1="1930" x2="115" y2="1930" class="line"/>
+    <text x="120" y="1935" class="icon">📄</text>
+    <text x="145" y="1935" class="file-text">_bootstrap.meta.json</text>
+    <line x1="105" y1="1955" x2="105" y2="1965" class="line"/>
+    <line x1="105" y1="1965" x2="115" y2="1965" class="line"/>
+    <text x="120" y="1970" class="icon">📄</text>
+    <text x="145" y="1970" class="file-text">_bootstrap_external.data.json</text>
+    <line x1="105" y1="1990" x2="105" y2="2000" class="line"/>
+    <line x1="105" y1="2000" x2="115" y2="2000" class="line"/>
+    <text x="120" y="2005" class="icon">📄</text>
+    <text x="145" y="2005" class="file-text">_bootstrap_external.meta.json</text>
+    <line x1="105" y1="2025" x2="105" y2="2035" class="line"/>
+    <line x1="105" y1="2035" x2="115" y2="2035" class="line"/>
+    <text x="120" y="2040" class="icon">📄</text>
+    <text x="145" y="2040" class="file-text">abc.data.json</text>
+    <line x1="105" y1="2060" x2="105" y2="2070" class="line"/>
+    <line x1="105" y1="2070" x2="115" y2="2070" class="line"/>
+    <text x="120" y="2075" class="icon">📄</text>
+    <text x="145" y="2075" class="file-text">abc.meta.json</text>
+    <line x1="105" y1="2095" x2="105" y2="2105" class="line"/>
+    <line x1="105" y1="2105" x2="115" y2="2105" class="line"/>
+    <text x="120" y="2110" class="icon">📄</text>
+    <text x="145" y="2110" class="file-text">machinery.data.json</text>
+    <line x1="105" y1="2130" x2="105" y2="2140" class="line"/>
+    <line x1="105" y1="2140" x2="115" y2="2140" class="line"/>
+    <text x="120" y="2145" class="icon">📄</text>
+    <text x="145" y="2145" class="file-text">machinery.meta.json</text>
+    <line x1="105" y1="2165" x2="105" y2="2175" class="line"/>
+    <line x1="105" y1="2175" x2="115" y2="2175" class="line"/>
+    <text x="120" y="2180" class="icon">📄</text>
+    <text x="145" y="2180" class="file-text">readers.data.json</text>
+    <line x1="105" y1="2200" x2="105" y2="2210" class="line"/>
+    <line x1="105" y1="2210" x2="115" y2="2210" class="line"/>
+    <text x="120" y="2215" class="icon">📄</text>
+    <text x="145" y="2215" class="file-text">readers.meta.json</text>
+    <line x1="75" y1="2270" x2="75" y2="2280" class="line"/>
+    <line x1="75" y1="2280" x2="85" y2="2280" class="line"/>
+    <text x="90" y="2285" class="icon">📁</text>
+    <text x="115" y="2285" class="folder-text">os/</text>
+    <line x1="105" y1="2300" x2="105" y2="2310" class="line"/>
+    <line x1="105" y1="2310" x2="115" y2="2310" class="line"/>
+    <text x="120" y="2315" class="icon">📄</text>
+    <text x="145" y="2315" class="file-text">__init__.data.json</text>
+    <line x1="105" y1="2335" x2="105" y2="2345" class="line"/>
+    <line x1="105" y1="2345" x2="115" y2="2345" class="line"/>
+    <text x="120" y="2350" class="icon">📄</text>
+    <text x="145" y="2350" class="file-text">__init__.meta.json</text>
+    <line x1="105" y1="2370" x2="105" y2="2380" class="line"/>
+    <line x1="105" y1="2380" x2="115" y2="2380" class="line"/>
+    <text x="120" y="2385" class="icon">📄</text>
+    <text x="145" y="2385" class="file-text">path.data.json</text>
+    <line x1="105" y1="2405" x2="105" y2="2415" class="line"/>
+    <line x1="105" y1="2415" x2="115" y2="2415" class="line"/>
+    <text x="120" y="2420" class="icon">📄</text>
+    <text x="145" y="2420" class="file-text">path.meta.json</text>
+    <line x1="75" y1="2475" x2="75" y2="2485" class="line"/>
+    <line x1="75" y1="2485" x2="85" y2="2485" class="line"/>
+    <text x="90" y="2490" class="icon">📁</text>
+    <text x="115" y="2490" class="folder-text">pathlib/</text>
+    <line x1="105" y1="2505" x2="105" y2="2515" class="line"/>
+    <line x1="105" y1="2515" x2="115" y2="2515" class="line"/>
+    <text x="120" y="2520" class="icon">📄</text>
+    <text x="145" y="2520" class="file-text">__init__.data.json</text>
+    <line x1="105" y1="2540" x2="105" y2="2550" class="line"/>
+    <line x1="105" y1="2550" x2="115" y2="2550" class="line"/>
+    <text x="120" y="2555" class="icon">📄</text>
+    <text x="145" y="2555" class="file-text">__init__.meta.json</text>
+    <line x1="75" y1="2610" x2="75" y2="2620" class="line"/>
+    <line x1="75" y1="2620" x2="85" y2="2620" class="line"/>
+    <text x="90" y="2625" class="icon">📁</text>
+    <text x="115" y="2625" class="folder-text">sys/</text>
+    <line x1="105" y1="2640" x2="105" y2="2650" class="line"/>
+    <line x1="105" y1="2650" x2="115" y2="2650" class="line"/>
+    <text x="120" y="2655" class="icon">📄</text>
+    <text x="145" y="2655" class="file-text">__init__.data.json</text>
+    <line x1="105" y1="2675" x2="105" y2="2685" class="line"/>
+    <line x1="105" y1="2685" x2="115" y2="2685" class="line"/>
+    <text x="120" y="2690" class="icon">📄</text>
+    <text x="145" y="2690" class="file-text">__init__.meta.json</text>
+    <line x1="105" y1="2710" x2="105" y2="2720" class="line"/>
+    <line x1="105" y1="2720" x2="115" y2="2720" class="line"/>
+    <text x="120" y="2725" class="icon">📄</text>
+    <text x="145" y="2725" class="file-text">_monitoring.data.json</text>
+    <line x1="105" y1="2745" x2="105" y2="2755" class="line"/>
+    <line x1="105" y1="2755" x2="115" y2="2755" class="line"/>
+    <text x="120" y="2760" class="icon">📄</text>
+    <text x="145" y="2760" class="file-text">_monitoring.meta.json</text>
+    <line x1="75" y1="2815" x2="75" y2="2825" class="line"/>
+    <line x1="75" y1="2825" x2="85" y2="2825" class="line"/>
+    <text x="90" y="2830" class="icon">📁</text>
+    <text x="115" y="2830" class="folder-text">zipfile/</text>
+    <line x1="105" y1="2845" x2="105" y2="2855" class="line"/>
+    <line x1="105" y1="2855" x2="115" y2="2855" class="line"/>
+    <text x="120" y="2860" class="icon">📁</text>
+    <text x="145" y="2860" class="folder-text">_path/</text>
+    <line x1="135" y1="2875" x2="135" y2="2885" class="line"/>
+    <line x1="135" y1="2885" x2="145" y2="2885" class="line"/>
+    <text x="150" y="2890" class="icon">📄</text>
+    <text x="175" y="2890" class="file-text">__init__.data.json</text>
+    <line x1="135" y1="2910" x2="135" y2="2920" class="line"/>
+    <line x1="135" y1="2920" x2="145" y2="2920" class="line"/>
+    <text x="150" y="2925" class="icon">📄</text>
+    <text x="175" y="2925" class="file-text">__init__.meta.json</text>
+    <line x1="105" y1="2980" x2="105" y2="2990" class="line"/>
+    <line x1="105" y1="2990" x2="115" y2="2990" class="line"/>
+    <text x="120" y="2995" class="icon">📄</text>
+    <text x="145" y="2995" class="file-text">__init__.data.json</text>
+    <line x1="105" y1="3015" x2="105" y2="3025" class="line"/>
+    <line x1="105" y1="3025" x2="115" y2="3025" class="line"/>
+    <text x="120" y="3030" class="icon">📄</text>
+    <text x="145" y="3030" class="file-text">__init__.meta.json</text>
+    <line x1="75" y1="3085" x2="75" y2="3095" class="line"/>
+    <line x1="75" y1="3095" x2="85" y2="3095" class="line"/>
+    <text x="90" y="3100" class="icon">📄</text>
+    <text x="115" y="3100" class="file-text">01.data.json</text>
+    <line x1="75" y1="3120" x2="75" y2="3130" class="line"/>
+    <line x1="75" y1="3130" x2="85" y2="3130" class="line"/>
+    <text x="90" y="3135" class="icon">📄</text>
+    <text x="115" y="3135" class="file-text">01.meta.json</text>
+    <line x1="75" y1="3155" x2="75" y2="3165" class="line"/>
+    <line x1="75" y1="3165" x2="85" y2="3165" class="line"/>
+    <text x="90" y="3170" class="icon">📄</text>
+    <text x="115" y="3170" class="file-text">02.data.json</text>
+    <line x1="75" y1="3190" x2="75" y2="3200" class="line"/>
+    <line x1="75" y1="3200" x2="85" y2="3200" class="line"/>
+    <text x="90" y="3205" class="icon">📄</text>
+    <text x="115" y="3205" class="file-text">02.meta.json</text>
+    <line x1="75" y1="3225" x2="75" y2="3235" class="line"/>
+    <line x1="75" y1="3235" x2="85" y2="3235" class="line"/>
+    <text x="90" y="3240" class="icon">📄</text>
+    <text x="115" y="3240" class="file-text">@plugins_snapshot.json</text>
+    <line x1="75" y1="3260" x2="75" y2="3270" class="line"/>
+    <line x1="75" y1="3270" x2="85" y2="3270" class="line"/>
+    <text x="90" y="3275" class="icon">📄</text>
+    <text x="115" y="3275" class="file-text">_ast.data.json</text>
+    <line x1="75" y1="3295" x2="75" y2="3305" class="line"/>
+    <line x1="75" y1="3305" x2="85" y2="3305" class="line"/>
+    <text x="90" y="3310" class="icon">📄</text>
+    <text x="115" y="3310" class="file-text">_ast.meta.json</text>
+    <line x1="75" y1="3330" x2="75" y2="3340" class="line"/>
+    <line x1="75" y1="3340" x2="85" y2="3340" class="line"/>
+    <text x="90" y="3345" class="icon">📄</text>
+    <text x="115" y="3345" class="file-text">_codecs.data.json</text>
+    <line x1="75" y1="3365" x2="75" y2="3375" class="line"/>
+    <line x1="75" y1="3375" x2="85" y2="3375" class="line"/>
+    <text x="90" y="3380" class="icon">📄</text>
+    <text x="115" y="3380" class="file-text">_codecs.meta.json</text>
+    <line x1="75" y1="3400" x2="75" y2="3410" class="line"/>
+    <line x1="75" y1="3410" x2="85" y2="3410" class="line"/>
+    <text x="90" y="3415" class="icon">📄</text>
+    <text x="115" y="3415" class="file-text">_collections_abc.data.json</text>
+    <line x1="75" y1="3435" x2="75" y2="3445" class="line"/>
+    <line x1="75" y1="3445" x2="85" y2="3445" class="line"/>
+    <text x="90" y="3450" class="icon">📄</text>
+    <text x="115" y="3450" class="file-text">_collections_abc.meta.json</text>
+    <line x1="75" y1="3470" x2="75" y2="3480" class="line"/>
+    <line x1="75" y1="3480" x2="85" y2="3480" class="line"/>
+    <text x="90" y="3485" class="icon">📄</text>
+    <text x="115" y="3485" class="file-text">_frozen_importlib.data.json</text>
+    <line x1="75" y1="3505" x2="75" y2="3515" class="line"/>
+    <line x1="75" y1="3515" x2="85" y2="3515" class="line"/>
+    <text x="90" y="3520" class="icon">📄</text>
+    <text x="115" y="3520" class="file-text">_frozen_importlib.meta.json</text>
+    <line x1="75" y1="3540" x2="75" y2="3550" class="line"/>
+    <line x1="75" y1="3550" x2="85" y2="3550" class="line"/>
+    <text x="90" y="3555" class="icon">📄</text>
+    <text x="115" y="3555" class="file-text">_frozen_importlib_external.data.json</text>
+    <line x1="75" y1="3575" x2="75" y2="3585" class="line"/>
+    <line x1="75" y1="3585" x2="85" y2="3585" class="line"/>
+    <text x="90" y="3590" class="icon">📄</text>
+    <text x="115" y="3590" class="file-text">_frozen_importlib_external.meta.json</text>
+    <line x1="75" y1="3610" x2="75" y2="3620" class="line"/>
+    <line x1="75" y1="3620" x2="85" y2="3620" class="line"/>
+    <text x="90" y="3625" class="icon">📄</text>
+    <text x="115" y="3625" class="file-text">_io.data.json</text>
+    <line x1="75" y1="3645" x2="75" y2="3655" class="line"/>
+    <line x1="75" y1="3655" x2="85" y2="3655" class="line"/>
+    <text x="90" y="3660" class="icon">📄</text>
+    <text x="115" y="3660" class="file-text">_io.meta.json</text>
+    <line x1="75" y1="3680" x2="75" y2="3690" class="line"/>
+    <line x1="75" y1="3690" x2="85" y2="3690" class="line"/>
+    <text x="90" y="3695" class="icon">📄</text>
+    <text x="115" y="3695" class="file-text">_sitebuiltins.data.json</text>
+    <line x1="75" y1="3715" x2="75" y2="3725" class="line"/>
+    <line x1="75" y1="3725" x2="85" y2="3725" class="line"/>
+    <text x="90" y="3730" class="icon">📄</text>
+    <text x="115" y="3730" class="file-text">_sitebuiltins.meta.json</text>
+    <line x1="75" y1="3750" x2="75" y2="3760" class="line"/>
+    <line x1="75" y1="3760" x2="85" y2="3760" class="line"/>
+    <text x="90" y="3765" class="icon">📄</text>
+    <text x="115" y="3765" class="file-text">_warnings.data.json</text>
+    <line x1="75" y1="3785" x2="75" y2="3795" class="line"/>
+    <line x1="75" y1="3795" x2="85" y2="3795" class="line"/>
+    <text x="90" y="3800" class="icon">📄</text>
+    <text x="115" y="3800" class="file-text">_warnings.meta.json</text>
+    <line x1="75" y1="3820" x2="75" y2="3830" class="line"/>
+    <line x1="75" y1="3830" x2="85" y2="3830" class="line"/>
+    <text x="90" y="3835" class="icon">📄</text>
+    <text x="115" y="3835" class="file-text">_winapi.data.json</text>
+    <line x1="75" y1="3855" x2="75" y2="3865" class="line"/>
+    <line x1="75" y1="3865" x2="85" y2="3865" class="line"/>
+    <text x="90" y="3870" class="icon">📄</text>
+    <text x="115" y="3870" class="file-text">_winapi.meta.json</text>
+    <line x1="75" y1="3890" x2="75" y2="3900" class="line"/>
+    <line x1="75" y1="3900" x2="85" y2="3900" class="line"/>
+    <text x="90" y="3905" class="icon">📄</text>
+    <text x="115" y="3905" class="file-text">abc.data.json</text>
+    <line x1="75" y1="3925" x2="75" y2="3935" class="line"/>
+    <line x1="75" y1="3935" x2="85" y2="3935" class="line"/>
+    <text x="90" y="3940" class="icon">📄</text>
+    <text x="115" y="3940" class="file-text">abc.meta.json</text>
+    <line x1="75" y1="3960" x2="75" y2="3970" class="line"/>
+    <line x1="75" y1="3970" x2="85" y2="3970" class="line"/>
+    <text x="90" y="3975" class="icon">📄</text>
+    <text x="115" y="3975" class="file-text">ast.data.json</text>
+    <line x1="75" y1="3995" x2="75" y2="4005" class="line"/>
+    <line x1="75" y1="4005" x2="85" y2="4005" class="line"/>
+    <text x="90" y="4010" class="icon">📄</text>
+    <text x="115" y="4010" class="file-text">ast.meta.json</text>
+    <line x1="75" y1="4030" x2="75" y2="4040" class="line"/>
+    <line x1="75" y1="4040" x2="85" y2="4040" class="line"/>
+    <text x="90" y="4045" class="icon">📄</text>
+    <text x="115" y="4045" class="file-text">builtins.data.json</text>
+    <line x1="75" y1="4065" x2="75" y2="4075" class="line"/>
+    <line x1="75" y1="4075" x2="85" y2="4075" class="line"/>
+    <text x="90" y="4080" class="icon">📄</text>
+    <text x="115" y="4080" class="file-text">builtins.meta.json</text>
+    <line x1="75" y1="4100" x2="75" y2="4110" class="line"/>
+    <line x1="75" y1="4110" x2="85" y2="4110" class="line"/>
+    <text x="90" y="4115" class="icon">📄</text>
+    <text x="115" y="4115" class="file-text">codecs.data.json</text>
+    <line x1="75" y1="4135" x2="75" y2="4145" class="line"/>
+    <line x1="75" y1="4145" x2="85" y2="4145" class="line"/>
+    <text x="90" y="4150" class="icon">📄</text>
+    <text x="115" y="4150" class="file-text">codecs.meta.json</text>
+    <line x1="75" y1="4170" x2="75" y2="4180" class="line"/>
+    <line x1="75" y1="4180" x2="85" y2="4180" class="line"/>
+    <text x="90" y="4185" class="icon">📄</text>
+    <text x="115" y="4185" class="file-text">contextlib.data.json</text>
+    <line x1="75" y1="4205" x2="75" y2="4215" class="line"/>
+    <line x1="75" y1="4215" x2="85" y2="4215" class="line"/>
+    <text x="90" y="4220" class="icon">📄</text>
+    <text x="115" y="4220" class="file-text">contextlib.meta.json</text>
+    <line x1="75" y1="4240" x2="75" y2="4250" class="line"/>
+    <line x1="75" y1="4250" x2="85" y2="4250" class="line"/>
+    <text x="90" y="4255" class="icon">📄</text>
+    <text x="115" y="4255" class="file-text">dataclasses.data.json</text>
+    <line x1="75" y1="4275" x2="75" y2="4285" class="line"/>
+    <line x1="75" y1="4285" x2="85" y2="4285" class="line"/>
+    <text x="90" y="4290" class="icon">📄</text>
+    <text x="115" y="4290" class="file-text">dataclasses.meta.json</text>
+    <line x1="75" y1="4310" x2="75" y2="4320" class="line"/>
+    <line x1="75" y1="4320" x2="85" y2="4320" class="line"/>
+    <text x="90" y="4325" class="icon">📄</text>
+    <text x="115" y="4325" class="file-text">enum.data.json</text>
+    <line x1="75" y1="4345" x2="75" y2="4355" class="line"/>
+    <line x1="75" y1="4355" x2="85" y2="4355" class="line"/>
+    <text x="90" y="4360" class="icon">📄</text>
+    <text x="115" y="4360" class="file-text">enum.meta.json</text>
+    <line x1="75" y1="4380" x2="75" y2="4390" class="line"/>
+    <line x1="75" y1="4390" x2="85" y2="4390" class="line"/>
+    <text x="90" y="4395" class="icon">📄</text>
+    <text x="115" y="4395" class="file-text">genericpath.data.json</text>
+    <line x1="75" y1="4415" x2="75" y2="4425" class="line"/>
+    <line x1="75" y1="4425" x2="85" y2="4425" class="line"/>
+    <text x="90" y="4430" class="icon">📄</text>
+    <text x="115" y="4430" class="file-text">genericpath.meta.json</text>
+    <line x1="75" y1="4450" x2="75" y2="4460" class="line"/>
+    <line x1="75" y1="4460" x2="85" y2="4460" class="line"/>
+    <text x="90" y="4465" class="icon">📄</text>
+    <text x="115" y="4465" class="file-text">io.data.json</text>
+    <line x1="75" y1="4485" x2="75" y2="4495" class="line"/>
+    <line x1="75" y1="4495" x2="85" y2="4495" class="line"/>
+    <text x="90" y="4500" class="icon">📄</text>
+    <text x="115" y="4500" class="file-text">io.meta.json</text>
+    <line x1="75" y1="4520" x2="75" y2="4530" class="line"/>
+    <line x1="75" y1="4530" x2="85" y2="4530" class="line"/>
+    <text x="90" y="4535" class="icon">📄</text>
+    <text x="115" y="4535" class="file-text">ntpath.data.json</text>
+    <line x1="75" y1="4555" x2="75" y2="4565" class="line"/>
+    <line x1="75" y1="4565" x2="85" y2="4565" class="line"/>
+    <text x="90" y="4570" class="icon">📄</text>
+    <text x="115" y="4570" class="file-text">ntpath.meta.json</text>
+    <line x1="75" y1="4590" x2="75" y2="4600" class="line"/>
+    <line x1="75" y1="4600" x2="85" y2="4600" class="line"/>
+    <text x="90" y="4605" class="icon">📄</text>
+    <text x="115" y="4605" class="file-text">pathlib.data.json</text>
+    <line x1="75" y1="4625" x2="75" y2="4635" class="line"/>
+    <line x1="75" y1="4635" x2="85" y2="4635" class="line"/>
+    <text x="90" y="4640" class="icon">📄</text>
+    <text x="115" y="4640" class="file-text">pathlib.meta.json</text>
+    <line x1="75" y1="4660" x2="75" y2="4670" class="line"/>
+    <line x1="75" y1="4670" x2="85" y2="4670" class="line"/>
+    <text x="90" y="4675" class="icon">📄</text>
+    <text x="115" y="4675" class="file-text">posixpath.data.json</text>
+    <line x1="75" y1="4695" x2="75" y2="4705" class="line"/>
+    <line x1="75" y1="4705" x2="85" y2="4705" class="line"/>
+    <text x="90" y="4710" class="icon">📄</text>
+    <text x="115" y="4710" class="file-text">posixpath.meta.json</text>
+    <line x1="75" y1="4730" x2="75" y2="4740" class="line"/>
+    <line x1="75" y1="4740" x2="85" y2="4740" class="line"/>
+    <text x="90" y="4745" class="icon">📄</text>
+    <text x="115" y="4745" class="file-text">re.data.json</text>
+    <line x1="75" y1="4765" x2="75" y2="4775" class="line"/>
+    <line x1="75" y1="4775" x2="85" y2="4775" class="line"/>
+    <text x="90" y="4780" class="icon">📄</text>
+    <text x="115" y="4780" class="file-text">re.meta.json</text>
+    <line x1="75" y1="4800" x2="75" y2="4810" class="line"/>
+    <line x1="75" y1="4810" x2="85" y2="4810" class="line"/>
+    <text x="90" y="4815" class="icon">📄</text>
+    <text x="115" y="4815" class="file-text">sre_compile.data.json</text>
+    <line x1="75" y1="4835" x2="75" y2="4845" class="line"/>
+    <line x1="75" y1="4845" x2="85" y2="4845" class="line"/>
+    <text x="90" y="4850" class="icon">📄</text>
+    <text x="115" y="4850" class="file-text">sre_compile.meta.json</text>
+    <line x1="75" y1="4870" x2="75" y2="4880" class="line"/>
+    <line x1="75" y1="4880" x2="85" y2="4880" class="line"/>
+    <text x="90" y="4885" class="icon">📄</text>
+    <text x="115" y="4885" class="file-text">sre_constants.data.json</text>
+    <line x1="75" y1="4905" x2="75" y2="4915" class="line"/>
+    <line x1="75" y1="4915" x2="85" y2="4915" class="line"/>
+    <text x="90" y="4920" class="icon">📄</text>
+    <text x="115" y="4920" class="file-text">sre_constants.meta.json</text>
+    <line x1="75" y1="4940" x2="75" y2="4950" class="line"/>
+    <line x1="75" y1="4950" x2="85" y2="4950" class="line"/>
+    <text x="90" y="4955" class="icon">📄</text>
+    <text x="115" y="4955" class="file-text">sre_parse.data.json</text>
+    <line x1="75" y1="4975" x2="75" y2="4985" class="line"/>
+    <line x1="75" y1="4985" x2="85" y2="4985" class="line"/>
+    <text x="90" y="4990" class="icon">📄</text>
+    <text x="115" y="4990" class="file-text">sre_parse.meta.json</text>
+    <line x1="75" y1="5010" x2="75" y2="5020" class="line"/>
+    <line x1="75" y1="5020" x2="85" y2="5020" class="line"/>
+    <text x="90" y="5025" class="icon">📄</text>
+    <text x="115" y="5025" class="file-text">subprocess.data.json</text>
+    <line x1="75" y1="5045" x2="75" y2="5055" class="line"/>
+    <line x1="75" y1="5055" x2="85" y2="5055" class="line"/>
+    <text x="90" y="5060" class="icon">📄</text>
+    <text x="115" y="5060" class="file-text">subprocess.meta.json</text>
+    <line x1="75" y1="5080" x2="75" y2="5090" class="line"/>
+    <line x1="75" y1="5090" x2="85" y2="5090" class="line"/>
+    <text x="90" y="5095" class="icon">📄</text>
+    <text x="115" y="5095" class="file-text">types.data.json</text>
+    <line x1="75" y1="5115" x2="75" y2="5125" class="line"/>
+    <line x1="75" y1="5125" x2="85" y2="5125" class="line"/>
+    <text x="90" y="5130" class="icon">📄</text>
+    <text x="115" y="5130" class="file-text">types.meta.json</text>
+    <line x1="75" y1="5150" x2="75" y2="5160" class="line"/>
+    <line x1="75" y1="5160" x2="85" y2="5160" class="line"/>
+    <text x="90" y="5165" class="icon">📄</text>
+    <text x="115" y="5165" class="file-text">typing.data.json</text>
+    <line x1="75" y1="5185" x2="75" y2="5195" class="line"/>
+    <line x1="75" y1="5195" x2="85" y2="5195" class="line"/>
+    <text x="90" y="5200" class="icon">📄</text>
+    <text x="115" y="5200" class="file-text">typing.meta.json</text>
+    <line x1="75" y1="5220" x2="75" y2="5230" class="line"/>
+    <line x1="75" y1="5230" x2="85" y2="5230" class="line"/>
+    <text x="90" y="5235" class="icon">📄</text>
+    <text x="115" y="5235" class="file-text">typing_extensions.data.json</text>
+    <line x1="75" y1="5255" x2="75" y2="5265" class="line"/>
+    <line x1="75" y1="5265" x2="85" y2="5265" class="line"/>
+    <text x="90" y="5270" class="icon">📄</text>
+    <text x="115" y="5270" class="file-text">typing_extensions.meta.json</text>
+    <line x1="75" y1="5290" x2="75" y2="5300" class="line"/>
+    <line x1="75" y1="5300" x2="85" y2="5300" class="line"/>
+    <text x="90" y="5305" class="icon">📄</text>
+    <text x="115" y="5305" class="file-text">warnings.data.json</text>
+    <line x1="75" y1="5325" x2="75" y2="5335" class="line"/>
+    <line x1="75" y1="5335" x2="85" y2="5335" class="line"/>
+    <text x="90" y="5340" class="icon">📄</text>
+    <text x="115" y="5340" class="file-text">warnings.meta.json</text>
+    <line x1="75" y1="5360" x2="75" y2="5370" class="line"/>
+    <line x1="75" y1="5370" x2="85" y2="5370" class="line"/>
+    <text x="90" y="5375" class="icon">📄</text>
+    <text x="115" y="5375" class="file-text">zipimport.data.json</text>
+    <line x1="75" y1="5395" x2="75" y2="5405" class="line"/>
+    <line x1="75" y1="5405" x2="85" y2="5405" class="line"/>
+    <text x="90" y="5410" class="icon">📄</text>
+    <text x="115" y="5410" class="file-text">zipimport.meta.json</text>
+    <line x1="45" y1="5465" x2="45" y2="5475" class="line"/>
+    <line x1="45" y1="5475" x2="55" y2="5475" class="line"/>
+    <text x="60" y="5480" class="icon">🚫</text>
+    <text x="85" y="5480" class="file-text">.gitignore</text>
+    <line x1="45" y1="5500" x2="45" y2="5510" class="line"/>
+    <line x1="45" y1="5510" x2="55" y2="5510" class="line"/>
+    <text x="60" y="5515" class="icon">📄</text>
+    <text x="85" y="5515" class="file-text">CACHEDIR.TAG</text>
+    <line x1="15" y1="5555" x2="25" y2="5555" class="line"/>
+    <text x="30" y="5560" class="icon">🐍</text>
+    <text x="55" y="5560" class="file-text">01.py</text>
+    <line x1="15" y1="5565" x2="25" y2="5565" class="line"/>
+    <text x="30" y="5570" class="icon">🐍</text>
+    <text x="55" y="5570" class="file-text">02.py</text>
+    <line x1="15" y1="5575" x2="25" y2="5575" class="line"/>
+    <text x="30" y="5580" class="icon">📖</text>
+    <text x="55" y="5580" class="file-text">README.md</text>
+    <line x1="15" y1="5585" x2="25" y2="5585" class="line"/>
+    <text x="30" y="5590" class="icon">📄</text>
+    <text x="55" y="5590" class="file-text">filetree.json</text>
+    <line x1="15" y1="5595" x2="25" y2="5595" class="line"/>
+    <text x="30" y="5600" class="icon">📝</text>
+    <text x="55" y="5600" class="file-text">filetree.md</text>
+    <line x1="15" y1="5605" x2="25" y2="5605" class="line"/>
+    <text x="30" y="5610" class="icon">📄</text>
+    <text x="55" y="5610" class="file-text">filetree.txt</text>
+    <line x1="15" y1="5615" x2="25" y2="5615" class="line"/>
+    <text x="30" y="5620" class="icon">🐍</text>
+    <text x="55" y="5620" class="file-text">main.py</text>
+    <line x1="15" y1="5625" x2="25" y2="5625" class="line"/>
+    <text x="30" y="5630" class="icon">⚙️</text>
+    <text x="55" y="5630" class="file-text">pyproject.toml</text>
+    <line x1="15" y1="5635" x2="25" y2="5635" class="line"/>
+    <text x="30" y="5640" class="icon">📄</text>
+    <text x="55" y="5640" class="file-text">requirements.txt</text>
+    <line x1="15" y1="5645" x2="25" y2="5645" class="line"/>
+    <text x="30" y="5650" class="icon">📓</text>
+    <text x="55" y="5650" class="file-text">test.ipynb</text>
+    <line x1="15" y1="5655" x2="25" y2="5655" class="line"/>
+    <text x="30" y="5660" class="icon">🔒</text>
+    <text x="55" y="5660" class="file-text">uv.lock</text>
+</svg>

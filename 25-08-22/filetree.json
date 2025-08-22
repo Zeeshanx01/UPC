@@ -1,0 +1,973 @@
+{
+  "name": "25-08-22",
+  "path": "d:\\DB\\UPC\\25-08-22",
+  "type": "directory",
+  "children": [
+    {
+      "name": ".mypy_cache",
+      "type": "directory",
+      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache",
+      "children": [
+        {
+          "name": "3.13",
+          "type": "directory",
+          "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13",
+          "children": [
+            {
+              "name": "_typeshed",
+              "type": "directory",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_typeshed",
+              "children": [
+                {
+                  "name": "__init__.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_typeshed\\__init__.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "__init__.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_typeshed\\__init__.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "importlib.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_typeshed\\importlib.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "importlib.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_typeshed\\importlib.meta.json",
+                  "icon": "📄"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "collections",
+              "type": "directory",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\collections",
+              "children": [
+                {
+                  "name": "__init__.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\collections\\__init__.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "__init__.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\collections\\__init__.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "abc.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\collections\\abc.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "abc.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\collections\\abc.meta.json",
+                  "icon": "📄"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "email",
+              "type": "directory",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email",
+              "children": [
+                {
+                  "name": "__init__.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\__init__.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "__init__.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\__init__.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "_policybase.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\_policybase.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "_policybase.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\_policybase.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "charset.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\charset.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "charset.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\charset.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "contentmanager.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\contentmanager.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "contentmanager.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\contentmanager.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "errors.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\errors.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "errors.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\errors.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "header.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\header.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "header.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\header.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "message.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\message.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "message.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\message.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "policy.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\policy.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "policy.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\email\\policy.meta.json",
+                  "icon": "📄"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "importlib",
+              "type": "directory",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib",
+              "children": [
+                {
+                  "name": "metadata",
+                  "type": "directory",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\metadata",
+                  "children": [
+                    {
+                      "name": "__init__.data.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\metadata\\__init__.data.json",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "__init__.meta.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\metadata\\__init__.meta.json",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "_meta.data.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\metadata\\_meta.data.json",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "_meta.meta.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\metadata\\_meta.meta.json",
+                      "icon": "📄"
+                    }
+                  ],
+                  "icon": "📁"
+                },
+                {
+                  "name": "resources",
+                  "type": "directory",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\resources",
+                  "children": [
+                    {
+                      "name": "__init__.data.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\resources\\__init__.data.json",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "__init__.meta.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\resources\\__init__.meta.json",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "_common.data.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\resources\\_common.data.json",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "_common.meta.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\resources\\_common.meta.json",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "_functional.data.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\resources\\_functional.data.json",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "_functional.meta.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\resources\\_functional.meta.json",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "abc.data.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\resources\\abc.data.json",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "abc.meta.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\resources\\abc.meta.json",
+                      "icon": "📄"
+                    }
+                  ],
+                  "icon": "📁"
+                },
+                {
+                  "name": "__init__.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\__init__.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "__init__.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\__init__.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "_abc.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\_abc.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "_abc.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\_abc.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "_bootstrap.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\_bootstrap.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "_bootstrap.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\_bootstrap.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "_bootstrap_external.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\_bootstrap_external.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "_bootstrap_external.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\_bootstrap_external.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "abc.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\abc.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "abc.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\abc.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "machinery.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\machinery.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "machinery.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\machinery.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "readers.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\readers.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "readers.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\importlib\\readers.meta.json",
+                  "icon": "📄"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "os",
+              "type": "directory",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\os",
+              "children": [
+                {
+                  "name": "__init__.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\os\\__init__.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "__init__.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\os\\__init__.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "path.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\os\\path.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "path.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\os\\path.meta.json",
+                  "icon": "📄"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "pathlib",
+              "type": "directory",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\pathlib",
+              "children": [
+                {
+                  "name": "__init__.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\pathlib\\__init__.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "__init__.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\pathlib\\__init__.meta.json",
+                  "icon": "📄"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "sys",
+              "type": "directory",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\sys",
+              "children": [
+                {
+                  "name": "__init__.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\sys\\__init__.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "__init__.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\sys\\__init__.meta.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "_monitoring.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\sys\\_monitoring.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "_monitoring.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\sys\\_monitoring.meta.json",
+                  "icon": "📄"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "zipfile",
+              "type": "directory",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\zipfile",
+              "children": [
+                {
+                  "name": "_path",
+                  "type": "directory",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\zipfile\\_path",
+                  "children": [
+                    {
+                      "name": "__init__.data.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\zipfile\\_path\\__init__.data.json",
+                      "icon": "📄"
+                    },
+                    {
+                      "name": "__init__.meta.json",
+                      "type": "file",
+                      "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\zipfile\\_path\\__init__.meta.json",
+                      "icon": "📄"
+                    }
+                  ],
+                  "icon": "📁"
+                },
+                {
+                  "name": "__init__.data.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\zipfile\\__init__.data.json",
+                  "icon": "📄"
+                },
+                {
+                  "name": "__init__.meta.json",
+                  "type": "file",
+                  "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\zipfile\\__init__.meta.json",
+                  "icon": "📄"
+                }
+              ],
+              "icon": "📁"
+            },
+            {
+              "name": "01.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\01.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "01.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\01.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "02.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\02.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "02.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\02.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "@plugins_snapshot.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\@plugins_snapshot.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_ast.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_ast.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_ast.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_ast.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_codecs.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_codecs.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_codecs.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_codecs.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_collections_abc.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_collections_abc.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_collections_abc.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_collections_abc.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_frozen_importlib.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_frozen_importlib.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_frozen_importlib.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_frozen_importlib.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_frozen_importlib_external.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_frozen_importlib_external.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_frozen_importlib_external.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_frozen_importlib_external.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_io.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_io.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_io.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_io.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_sitebuiltins.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_sitebuiltins.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_sitebuiltins.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_sitebuiltins.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_warnings.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_warnings.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_warnings.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_warnings.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_winapi.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_winapi.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "_winapi.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\_winapi.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "abc.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\abc.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "abc.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\abc.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "ast.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\ast.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "ast.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\ast.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "builtins.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\builtins.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "builtins.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\builtins.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "codecs.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\codecs.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "codecs.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\codecs.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "contextlib.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\contextlib.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "contextlib.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\contextlib.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "dataclasses.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\dataclasses.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "dataclasses.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\dataclasses.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "enum.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\enum.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "enum.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\enum.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "genericpath.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\genericpath.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "genericpath.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\genericpath.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "io.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\io.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "io.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\io.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "ntpath.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\ntpath.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "ntpath.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\ntpath.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "pathlib.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\pathlib.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "pathlib.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\pathlib.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "posixpath.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\posixpath.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "posixpath.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\posixpath.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "re.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\re.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "re.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\re.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "sre_compile.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\sre_compile.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "sre_compile.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\sre_compile.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "sre_constants.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\sre_constants.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "sre_constants.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\sre_constants.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "sre_parse.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\sre_parse.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "sre_parse.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\sre_parse.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "subprocess.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\subprocess.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "subprocess.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\subprocess.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "types.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\types.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "types.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\types.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "typing.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\typing.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "typing.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\typing.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "typing_extensions.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\typing_extensions.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "typing_extensions.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\typing_extensions.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "warnings.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\warnings.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "warnings.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\warnings.meta.json",
+              "icon": "📄"
+            },
+            {
+              "name": "zipimport.data.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\zipimport.data.json",
+              "icon": "📄"
+            },
+            {
+              "name": "zipimport.meta.json",
+              "type": "file",
+              "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\3.13\\zipimport.meta.json",
+              "icon": "📄"
+            }
+          ],
+          "icon": "📁"
+        },
+        {
+          "name": ".gitignore",
+          "type": "file",
+          "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\.gitignore",
+          "icon": "🚫"
+        },
+        {
+          "name": "CACHEDIR.TAG",
+          "type": "file",
+          "path": "d:\\DB\\UPC\\25-08-22\\.mypy_cache\\CACHEDIR.TAG",
+          "icon": "📄"
+        }
+      ],
+      "icon": "📁"
+    },
+    {
+      "name": "01.py",
+      "type": "file",
+      "path": "d:\\DB\\UPC\\25-08-22\\01.py",
+      "icon": "🐍"
+    },
+    {
+      "name": "02.py",
+      "type": "file",
+      "path": "d:\\DB\\UPC\\25-08-22\\02.py",
+      "icon": "🐍"
+    },
+    {
+      "name": "README.md",
+      "type": "file",
+      "path": "d:\\DB\\UPC\\25-08-22\\README.md",
+      "icon": "📖"
+    },
+    {
+      "name": "filetree.md",
+      "type": "file",
+      "path": "d:\\DB\\UPC\\25-08-22\\filetree.md",
+      "icon": "📝"
+    },
+    {
+      "name": "filetree.txt",
+      "type": "file",
+      "path": "d:\\DB\\UPC\\25-08-22\\filetree.txt",
+      "icon": "📄"
+    },
+    {
+      "name": "main.py",
+      "type": "file",
+      "path": "d:\\DB\\UPC\\25-08-22\\main.py",
+      "icon": "🐍"
+    },
+    {
+      "name": "pyproject.toml",
+      "type": "file",
+      "path": "d:\\DB\\UPC\\25-08-22\\pyproject.toml",
+      "icon": "⚙️"
+    },
+    {
+      "name": "requirements.txt",
+      "type": "file",
+      "path": "d:\\DB\\UPC\\25-08-22\\requirements.txt",
+      "icon": "📄"
+    },
+    {
+      "name": "test.ipynb",
+      "type": "file",
+      "path": "d:\\DB\\UPC\\25-08-22\\test.ipynb",
+      "icon": "📓"
+    },
+    {
+      "name": "uv.lock",
+      "type": "file",
+      "path": "d:\\DB\\UPC\\25-08-22\\uv.lock",
+      "icon": "🔒"
+    }
+  ],
+  "generated": "2025-08-22T10:55:08.725Z",
+  "generator": "FileTree Pro Extension",
+  "note": "Common build folders, dependencies, and temporary files are automatically excluded.",
+  "showIcons": true
+}
